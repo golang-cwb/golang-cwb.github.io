@@ -1,4 +1,4 @@
-baseURL = "https://golangcwb.github.io/"
+baseURL = "https://golang-cwb.github.io/"
 languageCode = "pt-br"
 title = "GolangCWB"
 theme = "hugo-tailwind-journal"
