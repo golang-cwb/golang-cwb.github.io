@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GolangCWB</title>
+    <link>https://golangcwb.github.io/</link>
+    <description>Recent content on GolangCWB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 14 Dec 2019 16:12:05 -0300</lastBuildDate>
+    
+	<atom:link href="https://golangcwb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placeholder</title>
+      <link>https://golangcwb.github.io/placeholder/</link>
+      <pubDate>Sat, 14 Dec 2019 16:12:05 -0300</pubDate>
+      
+      <guid>https://golangcwb.github.io/placeholder/</guid>
+      <description>Deve-se adicionar algum conteúdo aqui.</description>
+    </item>
+    
+  </channel>
+</rss>
