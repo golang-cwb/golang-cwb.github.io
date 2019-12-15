@@ -1,0 +1,18 @@
+baseURL = "https://golangcwb.github.io/"
+languageCode = "pt-br"
+title = "GolangCWB"
+theme = "hugo-tailwind-journal"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[params]
+    author = "GolangCWB"
+    avatar = "images/avatar.png"
+    description = "Blog GolangCWB, grupo local sobre a linguagem de programação Go da cidade de Curitiba e região."
+    tagline = "Grupo de Curitiba e região sobre a linguagem de programação Go."
